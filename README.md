@@ -4,11 +4,11 @@
 
 ## Ссылка на сайт
 
-[https://ваш-логин.github.io/название-репозитория/]()
+[Вот она:](https://omniv3rsa.github.io/Inferno-Therapy/)
 
 ## Скриншот
 
-![Скриншот страницы](images/screenshot.png)
+![Скриншот страницы (не всей)](images/screenshot.png)
 
 ## Автор
 
