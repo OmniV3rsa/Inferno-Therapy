@@ -4,7 +4,7 @@
 
 ## Ссылка на сайт
 
-[Вот она:](https://omniv3rsa.github.io/Inferno-Therapy/)
+[https://omniv3rsa.github.io/Inferno-Therapy/](https://omniv3rsa.github.io/Inferno-Therapy/)
 
 ## Скриншот
 
